@@ -1,7 +1,14 @@
 ## Oiii 
+🔭 Atualmente estou trabalhando em...
+- 🌱 Atualmente estou aprendendo...
+- 👯 Estou procurando colaborar em ...
+- 🤔 Estou procurando ajuda com ...
+- 💬 Pergunte-me sobre...
 
-
-
+<div align="center">
+  <a href="https://github.com/julia-vi">
+</div>
+  
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Marta-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
