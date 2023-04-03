@@ -1,21 +1,24 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DA70D6heignt=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=da70d6&heignt=120&section=header"/>
 
 
-## Olá, seja bem vindo!!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=da70d6&size40&center=true&vCenter=true&width=1000&lines=Hello,+MY+NAME+IS+MARTA+JULIA;I'm+24+Years+old;I+from+Brazil+)](https://git.io/typing-svg)
 
-🔭 Atualmente cursando Bacharelado em Sistema de Informação - UFPA
+
+- 🔭 Atualmente cursando Bacharelado em Sistema de Informação - UFPA
 - 🌱 Atualmente estou aprendendo JavaScript, CSS e HTML
 - 💬 Front End...
 
 <div align="center">
-  <a href="https://github.com/julia-vi">
-</div>
   
-<div>
-<a href="https://beacons.ai/julia-vi">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=julia-vi&show_icons=true&theme=dark&incluede_all_commits=true&count_"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-vi&layout-compact&langs_count-16&theme-dark"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=julia-vi&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117"
+  alt="Marta Julia github stats"/>
+
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-vi&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a48bg_color=0d1117"/>
+
+</div>
+
+
 
 <div style="display: inline_block"><br>
 
@@ -28,6 +31,7 @@
 </div>
   
   ##
+  
 
 <div> 
  
@@ -37,3 +41,6 @@
   <a href="https://www.linkedin.com/in/marta-julia99" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+  
+  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=da70d6&heignt=120&section=footer"/>
