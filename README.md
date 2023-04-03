@@ -1,10 +1,12 @@
 
 <img width=150% src="https://capsule-render.vercel.app/api?type=waving&color=da70d6&heignt=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=da70d6&size35&center=true&vCenter=true&width=1000&lines=Hello,+MY+NAME+IS+MARTA+JULIA;I'm+24+Years+old;I+from+Brazil+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=da70d6&size40&center=true&vCenter=false&width=1000&lines=Hello,+MY+NAME+IS+MARTA+JULIA;I'm+24+Years+old;I+from+Brazil+)](https://git.io/typing-svg)
+
 ![Logo do git](https://www.imagensanimadas.com/data/media/1528/boneco-de-palito-imagem-animada-0038.gif) 
-- 🔭 <i>Atualmente cursando Bacharelado em Sistema de Informação - UFPA</i>
-- 🌱<i> Atualmente estou aprendendo JavaScript, CSS e HTML</i>
+
+- 🔭 <i>Atualmente cursando Bacharelado em Sistema de Informação - UFPA</i><br>
+- 🌱<i> Atualmente estou aprendendo JavaScript, CSS e HTML</i><br>
 - 💬<i> Front End...</i>
 
 ##
