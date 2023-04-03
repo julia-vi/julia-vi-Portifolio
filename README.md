@@ -15,6 +15,7 @@
 
 ___
 
+  ### ⭐️ Stats:
 
 <div>
   <a href="https://github.com/julia-vi">
@@ -26,9 +27,9 @@ ___
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=julia-vi&bg_color=282526&color=e166a7&line=b15d92&point=f4a4db&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  ___
-  
-<div style="display: inline_block"><br>
+ 
 
+<div style="display: inline_block"><br>
   <img align="center" alt="Marta-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marta-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marta-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
