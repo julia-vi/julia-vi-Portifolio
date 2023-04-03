@@ -9,9 +9,14 @@
 
 ![Logo do git](https://www.imagensanimadas.com/data/media/1528/boneco-de-palito-imagem-animada-0038.gif)   
 
+<div>
+   <a href="https://37.media.tumblr.com/"><img align="right" alt="marta-pic" height="150" style="border-radius:50px;" src="https://37.media.tumblr.com/cf299aa6d712e4ffa2663a289c8f6810/tumblr_n3dd7z1rqU1s63c00o1_400.gif" alt="https://37.media.tumblr.com" /> </a> <br/>
+  </div>
+
 - 🔭 <i>Atualmente cursando Bacharelado em Sistema de Informação - UFPA</i><br>
 - 🌱<i> Atualmente estou aprendendo JavaScript, CSS e HTML</i><br>
 - 💬<i> Front End...</i>
+
 
 ___
 
