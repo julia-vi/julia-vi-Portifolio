@@ -1,14 +1,17 @@
 ## Oiii 
-🔭 Atualmente estou trabalhando em...
-- 🌱 Atualmente estou aprendendo...
-- 👯 Estou procurando colaborar em ...
-- 🤔 Estou procurando ajuda com ...
-- 💬 Pergunte-me sobre...
+🔭 Atualmente cursando Bacharelado em Sistema de Informação - UFPA
+- 🌱 Atualmente estou aprendendo JavaScript, CSS e HTML
+- 💬 Front Ent...
 
 <div align="center">
   <a href="https://github.com/julia-vi">
 </div>
   
+<div>
+<a href="https://beacons.ai/julia-vi">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username-julia-vi&show_icons=true&theme=dark&incluede_all_commits=true&count_"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/top-lang/?username-julia-vi&layout-compact&langs_count-16&theme-dark"/>
+
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Marta-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
