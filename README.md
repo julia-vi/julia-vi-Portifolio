@@ -1,14 +1,15 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=da70d6&heignt=120&section=header"/>
+<img width=150% src="https://capsule-render.vercel.app/api?type=waving&color=da70d6&heignt=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=da70d6&size80&center=true&vCenter=true&width=1000&lines=Hello,+MY+NAME+IS+MARTA+JULIA;I'm+24+Years+old;I+from+Brazil+)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=da70d6&size40&center=true&vCenter=true&width=1000&lines=Hello,+MY+NAME+IS+MARTA+JULIA;I'm+24+Years+old;I+from+Brazil+)](https://git.io/typing-svg)
+##
 
+- 🔭 <i>Atualmente cursando Bacharelado em Sistema de Informação - UFPA</i>
+- 🌱<i> Atualmente estou aprendendo JavaScript, CSS e HTML</i>
+- 💬<i> Front End...</i>
 
-- 🔭 Atualmente cursando Bacharelado em Sistema de Informação - UFPA
-- 🌱 Atualmente estou aprendendo JavaScript, CSS e HTML
-- 💬 Front End...
-
+##
 <div align="center">
   
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=julia-vi&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117"
@@ -17,8 +18,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-vi&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a48bg_color=0d1117"/>
 
 </div>
-
-
 
 <div style="display: inline_block"><br>
 
@@ -43,4 +42,4 @@
 </div>
   
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=da70d6&heignt=120&section=footer"/>
+  <img width=200% src="https://capsule-render.vercel.app/api?type=waving&color=da70d6&heignt=120&section=footer"/>
