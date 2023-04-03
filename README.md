@@ -1,5 +1,5 @@
 
-<img width=150% src="https://capsule-render.vercel.app/api?type=waving&color=da70d6&heignt=120&section=header"/>
+<img width=150% src="https://capsule-render.vercel.app/api?type=waving&color=f4a4db&heignt=120&section=header"/>
 
 ##
 
@@ -23,8 +23,8 @@ ___
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-vi&layout=compact&langs_count=7&theme=dracula"/>
 
 </div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=julia-vi&bg_color=271b22&color=f575ed&line=ba2cb0&point=693f3f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=julia-vi&bg_color=282526&color=e166a7&line=b15d92&point=f4a4db&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  ___
   
 <div style="display: inline_block"><br>
@@ -52,4 +52,4 @@ ___
 > _Seja 1% melhor todos os dia!_ 
 </div>
   
-  <img width=200% src="https://capsule-render.vercel.app/api?type=waving&color=da70d6&heignt=120&section=footer"/>
+  <img width=200% src="https://capsule-render.vercel.app/api?type=waving&color=f4a4db&heignt=120&section=footer"/>
