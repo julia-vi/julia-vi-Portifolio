@@ -10,7 +10,7 @@
 <div>
 <a href="https://beacons.ai/julia-vi">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julia-vi&show_icons=true&theme=dark&incluede_all_commits=true&count_"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/top-lang/?username=julia-vi&layout-compact&langs_count-16&theme-dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-vi&layout-compact&langs_count-16&theme-dark"/>
 
 <div style="display: inline_block"><br>
 
