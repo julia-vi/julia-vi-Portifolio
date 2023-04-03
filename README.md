@@ -1,8 +1,8 @@
-## Olá seja bem vindo!!
+## Olá, seja bem vindo!!
 
 🔭 Atualmente cursando Bacharelado em Sistema de Informação - UFPA
 - 🌱 Atualmente estou aprendendo JavaScript, CSS e HTML
-- 💬 Front Ent...
+- 💬 Front End...
 
 <div align="center">
   <a href="https://github.com/julia-vi">
