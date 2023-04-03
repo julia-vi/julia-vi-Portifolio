@@ -1,15 +1,19 @@
 
 <img width=150% src="https://capsule-render.vercel.app/api?type=waving&color=da70d6&heignt=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=da70d6&size40&center=true&vCenter=false&width=1000&lines=Hello,+MY+NAME+IS+MARTA+JULIA;I'm+24+Years+old;I+from+Brazil+)](https://git.io/typing-svg)
+##
 
-![Logo do git](https://www.imagensanimadas.com/data/media/1528/boneco-de-palito-imagem-animada-0038.gif) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size40&center=true&vCenter=true&width=1000&lines=Hello,+MY+NAME+IS+MARTA+JULIA;I'm+24+Years+old;I+from+Brazil+:%29)](https://git.io/typing-svg)
+
+##
+
+![Logo do git](https://www.imagensanimadas.com/data/media/1528/boneco-de-palito-imagem-animada-0038.gif)   
 
 - 🔭 <i>Atualmente cursando Bacharelado em Sistema de Informação - UFPA</i><br>
 - 🌱<i> Atualmente estou aprendendo JavaScript, CSS e HTML</i><br>
 - 💬<i> Front End...</i>
 
-##
+___
 <div>
   <a href="https://github.com/julia-vi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-vi&layout=compact&langs_count=7&theme=dracula"/>
@@ -38,7 +42,7 @@
   <a href = "mailto:mrtjulia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marta-julia99" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-
+> _Seja 1% melhor todos os dia!_ 
 </div>
   
   <img width=200% src="https://capsule-render.vercel.app/api?type=waving&color=da70d6&heignt=120&section=footer"/>
