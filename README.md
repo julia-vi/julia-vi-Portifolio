@@ -1,4 +1,5 @@
-## Oiii 
+## Olá seja bem vindo!!
+
 🔭 Atualmente cursando Bacharelado em Sistema de Informação - UFPA
 - 🌱 Atualmente estou aprendendo JavaScript, CSS e HTML
 - 💬 Front Ent...
