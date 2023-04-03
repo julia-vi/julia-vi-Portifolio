@@ -18,14 +18,14 @@ ___
 
 <div>
   <a href="https://github.com/julia-vi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-vi&layout=compact&langs_count=7&theme=dracula"/>
+    
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julia-vi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-vi&layout=compact&langs_count=7&theme=dracula"/>
+
 </div>
 
-___
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=julia-vi&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=julia-vi&bg_color=271b22&color=f575ed&line=ba2cb0&point=693f3f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ ___
   
 <div style="display: inline_block"><br>
 
